@@ -1,4 +1,4 @@
-# ALS_Replicated UE 5.1 | 5.2 | 5.3 Blueprint Only
+# ALS_Replicated UE 5.1 | 5.2 | 5.3 | 5.4 Blueprint Only
 
 This is a community-based effort to fully and effectively replicate Advanced Locomotion System v4 which is permanently free on the Epic Marketplace. 
 
